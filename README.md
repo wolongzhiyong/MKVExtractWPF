@@ -3,4 +3,4 @@ A WPF implementation for [MKVExtractGUI2](https://sourceforge.net/projects/mkvex
 while it is supported by this project.
 
 ## Note:
-This project has been discontinued since another utility [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui) is powerful and compatible with MKVToolNix v9.0.0 now.
+This project has been discontinued since another utility [gMKVExtractGUI](https://sourceforge.net/projects/gmkvextractgui) was found to be much powerful and compatible with MKVToolNix v9.0.0 now.
